@@ -1,4 +1,6 @@
-# Image Intensity Calculator Frontend
+My experiments with coding agents
+
+# Image Intensity Calculator Frontend (Written by Claude Code)
 
 A web frontend application that allows users to upload images and calculate their average intensity using the Rust REST API.
 
@@ -6,7 +8,6 @@ A web frontend application that allows users to upload images and calculate thei
 
 - 📁 Drag & drop or click to upload images
 - 🖼️ Live image preview
-- 📊 Visual intensity indicator (0-255 scale)
 - 📱 Responsive design for mobile and desktop
 - ⚡ Real-time API integration
 - 🛡️ Error handling and validation
